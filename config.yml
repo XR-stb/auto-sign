@@ -7,23 +7,23 @@ users:
   #单个用户配置
   - user:
       #username 学号或者工号
-      username: '161105024'
+      username: '20200809010118'
       #password 密码
-      password: '161105024'
+      password: '169838'
       #address 地址，定位信息  中国河南省xx市xx区xx路
-      address: 中国河南省
+      address: 中国贵州省贵阳市白云区二十六大道
       #email 接受通知消息的邮箱
-      email: 461009747@qq.com
+      email: 2322882096@qq.com
       #school 学校全称
-      school: 新乡医学院
+      school: 贵州商学院
       #lon 经度
-      lon: '114.639377'
+      lon: '106.374355'
       #lat 纬度
-      lat: '32.958833'
+      lat: '26.434187'
       #abnormalReason 反馈信息
-      abnormalReason: 在家
+      abnormalReason: 在寝
       #photo 签到照片，不需要可不填，或者直接删除
-      photo: default.png
+      photo: 
   #多用户配置，将下面的注释去掉即可，如果有表单内容有图片，不建议使用多用户配置
 #今日校园相关配置
 cpdaily:
@@ -34,12 +34,12 @@ cpdaily:
   #附加信息组默认选项配置，按顺序，可留空
   #    - default:
   #        #表单项标题
-  #        title: 体温
+  #        title: 
   #        #表单项默认值
-  #        value: 正常
+  #        value: 
   #多个额外选项配置
 #    - default:
 #        #表单项标题
-#        title: 体温
+#        title: 
 #        #表单项默认值
-#        value: 正常
+#        value: 
